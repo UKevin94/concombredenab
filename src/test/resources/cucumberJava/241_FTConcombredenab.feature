@@ -1,5 +1,5 @@
 # language: fr
-Fonctionnalité: Floorball Player recruitment
+Fonctionnalité: Floorball Player recruitment2
 
 Scénario: I want to know more about the nearest floorball
   Soit I have opened a browser
